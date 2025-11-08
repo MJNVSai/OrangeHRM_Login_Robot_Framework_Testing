@@ -180,6 +180,22 @@ allure open ./allure-report
 
 ![Invalid Login Error](./selenium-screenshot-1.png)
 
+### 📊 Allure Dashboard - 1
+
+![Allure_1](./Allure_Pic1.png)
+
+### 📈 Allure Dashboard - 2
+
+![Allure_2](./Allure_Pic2.png)
+
+### 📊 Allure Dashboard - 3
+
+![Allure_3](./Allure_Pic3.png)
+
+### 📈 Allure Dashboard - 4
+
+![Allure_4](./Allure_Pic4.png)
+
 ---
 
 ## 💡 Key Features
